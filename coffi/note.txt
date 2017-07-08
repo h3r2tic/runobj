@@ -1,0 +1,1 @@
+Stolen from https://github.com/serge1/COFFI, hacked up a bit to allow access to private members and use VirtualAlloc for memory.
